@@ -1,5 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/group-assignment-2021-group-8-malonic-acid-in-k-phaffii
-/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/group-assignment-2021-group-8-malonic-acid-in-k-phaffii/main)
 
 # 27410 - Group assignment - Group 8 - Komagataella pfaffii producing malonic acid
 
