@@ -11,3 +11,10 @@ Here the pathways are compared against each other and the results are discussed.
 
 This file tries to compare all possible carbon substrates and evaluate them for malonic acid producaiton as well as biomass growth rate. I tried to put our decision to go with methanol in to perspective and discuss alternatives. Some code is pretty long and a little complicated because im doing a lot of simulations. The discussion is still unfinished and there are some dead snippets with no use at the end of the document. You can review it but it's a mess, not gonna lie. Work in progress.
 
+**Report_draft_section_Erik.ipynb**
+
+Contains further evaluations. It uses the files
+- Improving_aspartate_supply.ipynb 
+- Methanol_assmilation.ipynb 
+- Optimizing_the_use_of_malonic-semialdehyde.ipynb 
+- Optswap.ipynb (incomplete)
