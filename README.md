@@ -8,6 +8,7 @@ This project aims to improve the genome-scale model (GSM) of _Komagataella phaff
 -	transferase malonyl-CoA pathway
 -	oxidoreductive malonyl-CoA pathway
 -	lactate pathway
+
 Out of these only the beta alanine pathway and the transferase malonyl-CoA pathway showed promising improvements of the yield.
 
 
