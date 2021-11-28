@@ -23,3 +23,4 @@ Adding alternative malonic-semialdehyde producing reactions and removing a react
 Analyzing included carbon_sources for biomass growth and malonic acid production.
 
 ## selection_and_assessment_of_existing_GSM
+Exploring the carveme and Kbase models and checking if growth on methanol is possible.
