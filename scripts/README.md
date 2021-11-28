@@ -24,3 +24,22 @@ Analyzing included carbon_sources for biomass growth and malonic acid production
 
 ## selection_and_assessment_of_existing_GSM
 Exploring the carveme and Kbase models and checking if growth on methanol is possible.
+
+
+## Optimization_FSEOF
+Flux scanning based on enforced objective flux analysis with a forced flux towards malonic acid production
+
+## Optimization_OptCouple
+OptCouple algorithm from supplementary material (Jensen 2019). Did not work.
+
+## Optimization_OptSwap
+OptSwap algorithm from cameo.
+
+## Optimization_OptKnock
+OptKnock algorithm from cameo. Did not work.
+
+## Optimization_OptGene
+OptGene algorithm from cameo.
+
+## Optimization_GrowthCouplingPotential
+Up to date OptCouple and OptKnock algorithms from github. Did not work.
