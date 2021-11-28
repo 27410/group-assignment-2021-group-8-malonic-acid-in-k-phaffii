@@ -1,4 +1,5 @@
-# Folder for all reports generated
-e.g. memote reports
+# Memote reports
+
+This folder contains all the different memote reports generated during the model evaluation.
 
 
