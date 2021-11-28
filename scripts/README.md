@@ -10,6 +10,7 @@ The function can be called alone or get assigned to a new variable, but it alway
 Adds two reactions through the enzymes: 
 1. Aspartase (fumaric aminase)
 2. Phosphoenolpyruvate Carboxykinase (ATP forming)
+
 Evaluates the impact of these additions through FVA and Escher visualisation
 
 ## methanol_aasimilation
