@@ -9,7 +9,10 @@ This project aims to improve the genome-scale model (GSM) of _Komagataella phaff
 -	oxidoreductive malonyl-CoA pathway
 -	lactate pathway
 
-Out of these only the beta alanine pathway and the transferase malonyl-CoA pathway showed promising improvements of the yield.
+After the calculation of the phenotypic phase planes, the oxidoreductive malonyl-CoA pathway and the lactate pathway were not further analysed since they had a worse slope than the other pathways. The remaining pathways have been analysed for their maximum O2 uptake, medium optimization, alternate carbon sources and optimizing the use of precursors by implementing OptSwap, OptKnock, OptGene and OptCouple algorithms.
+
+From the analysis it was shown that it should be possible to efficiently synthesise Malonic acid in *K. phaffii* using methanol as the substrate. The pathway of interest is through beta-alanine which was shown to be the most optimal of the ones experimented with. The production of malonic acid is possible using methanol as a substrate, but reaction has a severe impact on the growth of *K. Phaffii*. We concluded, that the most promising strategy for our cell factory is to use an inducible system, allowing the strain to accumulate biomass before switching to malonic acid production.
+
 
 
 ## Project overview
